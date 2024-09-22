@@ -72,7 +72,7 @@ export const projects = {
       image: "images/portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
+      preview: "https://github.com/roeeovadia/Travographer-Portal",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
     {
@@ -80,7 +80,7 @@ export const projects = {
       image: "images/resume-builder.png",
       summary:
         "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
+      preview: "https://roeeovadia.github.io/Resume-Builder",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
   ],
@@ -90,7 +90,7 @@ export const projects = {
       image: "images/pizzaorderchatbot.png",
       summary:
         "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+      preview: "https://github.com/roeeovadia/Pizza-Ordering-ChatBot",
       techStack: ["Dailogflow", "Firebase"],
     },
     {
@@ -98,7 +98,7 @@ export const projects = {
       image: "images/whatsappbot.jpg",
       summary:
         "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+      preview: "https://github.com/roeeovadia/WhatsApp-Bot",
       techStack: ["Selenium", "Chrome Webdriver", "Python"],
     },
     {
@@ -106,7 +106,7 @@ export const projects = {
       image: "images/billgenerator.png",
       summary:
         "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
+      preview: "https://github.com/roeeovadia/Bill-Generator",
       techStack: ["Tkinter", "Openxlpy", "Python"],
     },
   ],
@@ -116,7 +116,7 @@ export const projects = {
       image: "images/nitwcse.jpg",
       summary:
         "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
+      preview: "https://github.com/roeeovadia/NITW-CSE",
       techStack: ["JAVA", "XML", "Android"],
     },
     {
@@ -124,7 +124,7 @@ export const projects = {
       image: "images/carrerhigh.png",
       summary:
         "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+      preview: "https://github.com/roeeovadia/CareerHigh-Android",
       techStack: ["JAVA", "XML", "Android"],
     },
   ],
@@ -218,9 +218,9 @@ export const experience = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "B.Ed. in Computer Science and Engineering",
+    duration: "2002 - 2004",
+    subtitle: "Mic Tech, Tel Aviv",
     details: [],
     tags: [
       "Data Structures & Algorithms",
@@ -250,10 +250,10 @@ export const footer = [
 //         text: "Stackoverflow",
 //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
 //       },
-//       {
-//         text: "GitHub",
-//         link: "https://github.com/vinaysomawat",
-//       },
+      {
+        text: "GitHub",
+        link: "https://github.com/roeeovadia",
+      },
 //       {
 //         text: "LeetCode",
 //         link: "https://leetcode.com/somawatvinay/",
@@ -273,28 +273,28 @@ export const footer = [
 //       },
 //       {
 //         text: "Clone this page",
-//         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+//         link: "https://github.com/roeeovadia/roeeovadia.github.io",
 //       },
 //     ],
 //   },
   {
     label: "Links",
     data: [
-    //   {
-    //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/vinaysomawat/",
-    //   },
-    //   {
-    //     text: "Twitter",
-    //     link: "https://twitter.com/thesigmakid",
-    //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/roeeovadia/",
       },
       {
-        text: "Github/vinaysomawat.github.io",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Twitter",
+        link: "https://twitter.com/roeeovadia",
+      },
+      // {
+      //   text: "Buy me a coffee",
+      //   link: "https://www.buymeacoffee.com/r194dME8y",
+      // },
+      {
+        text: "Github/roeeovadia.github.io",
+        link: "https://github.com/roeeovadia/",
       },
     ],
   },
