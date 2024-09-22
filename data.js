@@ -9,25 +9,38 @@ export const skills = [
     title: "Languages",
     skillName: "JavaScript, TypeScript, C#, ",
     color: "1",
-    percentage: "80",
+    percentage: "85",
   },
   {
     title: "Frameworks/Libraries",
     skillName: "Angular, RxJS, NGRX/NGXS",
     color: "6",
-    percentage: "70",
+    percentage: "90",
   },
   {
-    title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    title: "Frameworks/Libraries",
+    skillName: "React,JSX,  ",
+    color: "6",
+    percentage: "90",
+  },
+  {
+    title: "BE",
+    skillName: "HTML, CSS, Bootstrap, Ant Design,",
     color: "4",
-    percentage: "70",
+    percentage: "80",
+  },
+  
+  {
+    title: "Design/ Design systems",
+    skillName: "HTML, CSS, Bootstrap, Ant Design, Bulma, ng-zorro",
+    color: "4",
+    percentage: "80",
   },
   {
     title: "Version Control",
     skillName: "GitHub, JIRA, Bitbucket, GitLab",
     color: "7",
-    percentage: "70",
+    percentage: "80",
   },
   {
     title: "Tools",
@@ -35,6 +48,13 @@ export const skills = [
     color: "3",
     percentage: "80",
   },
+   {
+    title: "System Architeture",
+    skillName: "nx, Monorepo design, SDLC",
+    color: "5",
+    percentage: "80",
+  },
+  
 //   {
 //     title: "Analytics",
 //     skillName: "CleverTap, Countly",
