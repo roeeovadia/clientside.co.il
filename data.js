@@ -19,15 +19,15 @@ export const skills = [
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "React,JSX,  ",
+    skillName: "React, JSX, state managment  ",
     color: "6",
-    percentage: "90",
+    percentage: "65",
   },
   {
     title: "BE",
-    skillName: "HTML, CSS, Bootstrap, Ant Design,",
+    skillName: "nodejs, .Net/.Net Core,",
     color: "4",
-    percentage: "80",
+    percentage: "78",
   },
   
   {
