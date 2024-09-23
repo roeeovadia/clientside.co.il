@@ -7,7 +7,7 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript, C#, ",
+    skillName: "JavaScript, TypeScript, C#",
     color: "1",
     percentage: "85",
   },
@@ -19,28 +19,35 @@ export const skills = [
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "React, JSX, state managment  ",
+    skillName: "React, JSX, State managment  ",
     color: "6",
     percentage: "65",
   },
   {
     title: "BE",
-    skillName: "nodejs, .Net/.Net Core,",
+    skillName: "nodejs, .Net/.Net Core, PHP, Rest",
     color: "4",
     percentage: "78",
   },
   
   {
-    title: "Design/ Design systems",
-    skillName: "HTML, CSS, Bootstrap, Ant Design, Bulma, ng-zorro",
+    title: "Web basic",
+    skillName: "HTML, CSS, jQuery",
     color: "4",
-    percentage: "80",
+    percentage: "96",
   },
+  {
+    title: "Design systems",
+    skillName: "Bootstrap, Ant Design, Bulma, ng-zorro, Clarity",
+    color: "4",
+    percentage: "87",
+  },
+  
   {
     title: "Version Control",
     skillName: "GitHub, JIRA, Bitbucket, GitLab",
     color: "7",
-    percentage: "80",
+    percentage: "82",
   },
   {
     title: "Tools",
@@ -50,10 +57,19 @@ export const skills = [
   },
    {
     title: "System Architeture",
-    skillName: "nx, Monorepo design, SDLC",
+    skillName: "NX, Monorepo design, SDLC",
     color: "5",
     percentage: "80",
   },
+  {Ï
+    title: "",
+    skillName: "SEO, Performance marketing",
+    color: "11",
+    percentage: "80",
+  },
+   
+   
+  
   
 //   {
 //     title: "Analytics",
