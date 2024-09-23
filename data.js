@@ -61,8 +61,8 @@ export const skills = [
     color: "5",
     percentage: "80",
   },
-  {Ï
-    title: "",
+  {
+    title: "Web Vitals",
     skillName: "SEO, Performance marketing",
     color: "11",
     percentage: "80",
