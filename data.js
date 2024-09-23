@@ -66,7 +66,7 @@ export const skills = [
     skillName: "SEO, Performance marketing",
     color: "11",
     percentage: "80",
-  },
+  }
    
    
   
